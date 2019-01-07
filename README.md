@@ -7,6 +7,8 @@ Hello World!!
 * List 3 
 End of the list
 
+Git is easy. Git is fun. Thanks Linus!
+
 More lines .. 
 ## The courses comprising the Data Science Specialization are:
 
