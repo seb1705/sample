@@ -20,3 +20,7 @@ More lines ..
 * Reproducible Research
 * Statistical Inference
 * Regression Model
+
+## New additions on Jan 24
+* _this is within underscore_
+
